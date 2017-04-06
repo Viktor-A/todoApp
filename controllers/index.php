@@ -1,5 +1,5 @@
-<?php 
+<?php
 
-$tasks = $query_db->selectAll('todos');
+$tasks = $app['database']->selectAll('todos');
 
-require 'index.view.php';
+require 'views/index.view.php';

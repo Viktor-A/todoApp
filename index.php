@@ -1,3 +1,6 @@
-<?php error_reporting(-1);
+<?php
 
-$query_db = require 'bootstrap.php';
+require 'core/bootstrap.php';
+
+require Router::load('routes.php')
+    ->direct(Request::uri());

@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Viktor-A</title>
-		<meta charset="utf-8">
+<?php require('partials/head.php'); ?>
 
-		<link rel="shortcut icon" type="image/icon" href="images/favicon.ico"/>
-	</head>
-<body>
+    <h1>Contact Us</h1>
 
-<h1>Contact</h1>
-
-</body>
-</html>
+<?php require('partials/footer.php'); ?>
