@@ -1,0 +1,10 @@
+body {
+    background: #F0F8FF;
+}
+ul {
+    list-style: none;
+    display: inline-flex;
+}   
+ul > li > a {
+    text-decoration: none;
+}
