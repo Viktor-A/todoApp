@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     background: #F0F8FF;
 }
 ul {
@@ -8,7 +7,4 @@ ul {
 }   
 ul > li > a {
     text-decoration: none;
-=======
-    background: #999;
->>>>>>> 9d05c6dfd4e8b6442945d64a6579ea0cdfa37f7d
 }
